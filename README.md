@@ -35,6 +35,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://profile-counter.glitch.me/nnxmms/count.svg?"  />
+</div>
+
+###
+
 <h2 align="left">Find me around the web 🌍</h2>
 
 ###
