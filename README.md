@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am an AI Penetration Tester currently working at Deutsche Telekom Security GmbH. With a strong background in machine learning and generative AI, I specialized in identifying and exploiting vulnerabilities in these systems. Also, you can find me exploring the latest advancements in AI or writing about my experiences on my blog, Hacking and Security. I'm passionate about sharing my knowledge with the community and collaborating with like-minded individuals to advance the field of AI security.</p>
+<p align="left">I am an AI Penetration Tester currently working at Deutsche Telekom Security GmbH. With a strong background in machine learning and generative AI, I specialized in identifying and exploiting vulnerabilities in these systems. Also, you can find me exploring the latest advancements in AI or writing about my experiences on my blog, <a href="https://hacking-and-security.cc">Hacking and Security</a>. I'm passionate about sharing my knowledge with the community and collaborating with like-minded individuals to advance the field of AI security.</p>
 
 ###
 
